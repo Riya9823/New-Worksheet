@@ -1,1 +1,23 @@
-
+1. D
+2. C
+3. D
+4. A
+5. B
+6. A
+7. D
+8. C
+9. A,C,D
+10. D
+11. Convex optimization is a subfield of mathematical optimization that studies the problem of minimizing convex functions over convex sets. Many classes of convex optimization
+    problems admit polynomial-time algorithms, whereas mathematical optimization is in general NP-hard.
+    A non-convex optimization problem is any problem where the objective or any of the constraints are non-convex.
+12. Saddle Point is a point at which a function of two variables has partial derivatives equal to zero but at which the function has neither a maximum nor a minimum value.
+    Surfaces can also have saddle points, which the second derivative test can sometimes be used to identify. Examples of surfaces with a saddle point include the handkerchief
+    surface and monkey saddle.
+13. The main difference is in classical momentum you first correct your velocity and then make a big step according to that velocity (and then repeat),
+    but in Nesterov momentum you first making a step into velocity direction and then make a correction to a velocity vector based on new location (then repeat).
+14. The aim of weight pre-initialization is to prevent layer activation outputs from exploding or vanishing during the course of a forward pass through a deep neural network. 
+    If either occurs, loss gradients will either be too large or too small to flow backwards beneficially, and the network will take longer to converge, if it is even able to
+    do so at all.
+15. Internal Covariate Shift is the change in the distribution of network activations due to the change in network parameters during training. In neural networks, the output of
+    the first layer feeds into the second layer, the output of the second layer feeds into the third, and so on
